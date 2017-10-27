@@ -9,7 +9,7 @@ Boolean Search Commands (also known as Operators) can modify a search to deliver
 First, why use Boolean commands?
 Boolean Search Commands provide the following key skills. 
    - Narrow or broaden a search
-   - Filter a search to include phrases and key words
+   - Filter a search to include phrases and keywords
    - Combine multiple searches so one doesn't have to hunt for results independently 
 
 Introducing the three most basic commands, known as operators:
@@ -18,7 +18,7 @@ Introducing the three most basic commands, known as operators:
  - **OR** combines terms so that at least one of the listed terms appears in the search result (*writer* **OR** *writing*)
  - **NOT** excludes the subsequent terms from the search result (*writer* **NOT** *tutoring*)
 
-More powerful filtering techinques include _phrase_ and _query matching_ expressions.
+More powerful filtering techniques include _phrase_ and _query matching_ expressions.
  - **Phrase search** uses quotes around terms so that the exact phrase appears in the search result (**"**_technical writer_**"**) 
  - **Query matching** uses a query expression to limit search to a specific category, such as job title (**title:** _writer_) 
 
