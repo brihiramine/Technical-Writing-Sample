@@ -22,7 +22,7 @@ More powerful filtering techinques include _phrase_ and _query matching_ express
  - **Phrase search** uses quotes around terms so that the exact phrase appears in the search result (**"**_technical writer_**"**) 
  - **Query matching** uses a query expression to limit search to a specific category, such as job title (**title:** _writer_) 
 
-Combining these techniques, we can create very powerful examples. Checkout the search below or see it in action on the site ([link](https://www.indeed.com/jobs?q=title%3A%28%22technical+writer%22+OR+%22technical+editor%22%29++NOT+tutor&l=Seattle%2C+WA&sort=date)).
+Combining these techniques, we can create very powerful searches as seen in the following example ([link](https://www.indeed.com/jobs?q=title%3A%28%22technical+writer%22+OR+%22technical+editor%22%29++NOT+tutor&l=Seattle%2C+WA&sort=date)).
 ```
 title:("technical writer" OR "technical editor")  NOT tutor
 ```
