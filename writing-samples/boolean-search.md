@@ -28,7 +28,7 @@ Combining these techniques, we can create very powerful examples. Checkout the s
 title:("technical writer" OR "technical editor")  NOT tutor
 ```
 
-Evident in this specific search, unwanted words have been filtered out (tutor) that might have popped up had we not employed this Boolean search command. To further strengthen a job search query, you could add more phrases or categories, ("entry level" OR "full time") NOT contract. 
+Evident in this specific search, unwanted words have been filtered out (tutor) that might have popped up had we not employed this Boolean search command. To further strengthen a job search query, you could add more phrases or categories, ("entry level" OR "full time"). 
 
 Boolean search commands are pretty straightforward once you learn how to implement them in a specific search. These commands have been very useful to me personally in my job search (I'm on Indeed.com all the time hunting away) - I hope they can assist you!
 
