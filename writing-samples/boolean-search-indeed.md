@@ -12,8 +12,7 @@ Boolean Search Commands provide the following key skills.
    - Filter a search to include phrases and keywords
    - Combine multiple searches so one doesn't have to hunt for results independently 
 
-But what are the commands, exactly?
-The three most basic command terms are as follows: 
+The key to Boolean searches are three basic operators: 
 **AND, OR,** and **NOT**
  - **AND** combines terms so that all the listed terms appear in the search result (*technical* **AND** *writer*)
  - **OR** combines terms so that at least one of the listed terms appears in the search result (*writer* **OR** *writing*)
