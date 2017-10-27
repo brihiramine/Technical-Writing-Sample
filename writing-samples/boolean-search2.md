@@ -16,7 +16,7 @@ The key to using Boolean searches are the three basic operators: AND, OR, and NO
 - OR combines terms so that at least one of the listed terms appears in the search result (writer OR writing)
 - NOT excludes the subsequent terms from the search result (writer NOT tutoring)
 
-Adding to Boolean searches, more powerful filtering techniques include phrase and query matching expressions.
+In addition to Boolean searches, more powerful filtering techniques include phrase and query matching expressions.
 - Phrase search uses quotes around terms so that the exact phrase appears in the search result ("technical writer")
 - Query matching uses a query expression to limit search to a specific category, such as job title (title: writer)
 
