@@ -1,7 +1,7 @@
 # How to Use Boolean Search to Find Your Next Job
 **Author:** Bri Hiramine Latimer
 
-Searching for a job can be overwhelming when there are so many listings, many unapplicable. One technique to filter out unwanted listings is to employ Boolean Search Commands. 
+Searching for a job is no easy task. On most job listing sites, there can be thousands of potential opportunities posted. This can prove overwhelming because a majority of the listings do not apply specifically to what you are looking for. One technique to filter out unwanted listings is to employ Boolean Search Commands. 
 #### What are Boolean Search Commands?
 Boolean Search Commands (also known as Operators) can modify a search to deliver more specific results, thereby saving time and improving search efficiency. Using Indeed.com as an example, the search will focus on a specific role search: technical writing roles.
 
