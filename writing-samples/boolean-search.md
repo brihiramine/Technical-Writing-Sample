@@ -20,7 +20,7 @@ Introducing the three most basic terms, known as operators:
  - **NOT** excludes the subsequent terms from the search result (*writer* **NOT** *tutoring*)
 
 More powerful filtering techinques include _phrase_ and _query matching_ expressions.
- - **Phrase search** uses quotes around terms so that the exact phrase appears in the search result (**"**_technical writer_**"**) which is great for pinpointing the role you are looking for!
+ - **Phrase search** uses quotes around terms so that the exact phrase appears in the search result (**"**_technical writer_**"**) 
  - **Query matching** uses a query expression to limit search to a specific category, such as job title (**title:** _writer_) 
 
 Combining these techniques, we can create very powerful examples. Checkout the search below and click the link to see it in action on the site ([Indeed link](https://www.indeed.com/jobs?q=title%3A%28%22technical+writer%22+OR+%22technical+editor%22%29++NOT+tutor&l=Seattle%2C+WA&sort=date)).
