@@ -24,7 +24,7 @@ By combining these techniques, we can create very powerful examples:
 
 title:("technical writer" OR "technical editor")  NOT tutor
 
-[This search on Indeed] would return any postings for technical writers or technical editors, but exclude any that are actually just tutoring roles. If you were also looking for roles that were specifically full time roles, you could include `("entry level" OR "full time") NOT contract.`. [This query on Indeed](https://www.indeed.com/jobs?q=title%3A%28%22technical+writer%22+OR+%22technical+editor%22%29++NOT+tutor&l=Seattle%2C+WA&sort=date)). returns fewer, but more likely relevant results.
+[This search on Indeed] would return any postings for technical writers or technical editors, but exclude any that are actually just tutoring roles. If you were also looking for roles that were specifically full time roles, you could include `("entry level" OR "full time") NOT contract.`[This query on Indeed] (https://www.indeed.com/jobs?q=title%3A%28%22technical+writer%22+OR+%22technical+editor%22%29++NOT+tutor&l=Seattle%2C+WA&sort=date)). returns fewer, but more likely relevant results.
 
 Boolean searches are a simple but powerful tool. Once you learn to incorporate them into your job search, you can use the time you save to work on your applications. Happy searching!
 
