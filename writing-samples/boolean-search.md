@@ -2,16 +2,17 @@
 **Author:** Bri Hiramine Latimer
 
 #### What are Boolean Search Commands
-Today we are going to introduce key Boolean Search Commands (also known as Operators) and how they can modify a search to deliver more specific results, thereby saving time and improving search efficiency. We will use Indeed.com as an example, as I have been using it a lot lately to find a new job. Our search will focus on what I am looking for: technical writing roles.
+Boolean Search Commands (also known as Operators) can modify a search to deliver more specific results, thereby saving time and improving search efficiency. Using Indeed.com as an example, the search will focus on a specific role search: technical writing roles.
 
 #### Commands and Usage
-First, why use fancy commands?
-Boolean Search Commands give us the following key skills. 
+First, why use Boolean commands?
+Boolean Search Commands provide the following key skills. 
    - Narrow or broaden a search
    - Filter a search to include phrases and key words
-   - Combine multiple searches so you don’t have to hunt for results independently 
+   - Combine multiple searches so one doesn't have to hunt for results independently 
 
-Next, let's introduce the three basic terms, known as operators:
+But what are the commands, exactly?
+Introducing the three most basic terms, known as operators:
 **AND, OR,** and **NOT**
  - **AND** combines terms so that all the listed terms appear in the search result (*technical* **AND** *writer*)
  - **OR** combines terms so that at least one of the listed terms appears in the search result (*writer* **OR** *writing*)
