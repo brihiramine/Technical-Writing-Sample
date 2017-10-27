@@ -17,7 +17,7 @@ Introducing the three most basic terms, known as operators:
 **AND, OR,** and **NOT**
  - **AND** combines terms so that all the listed terms appear in the search result (*technical* **AND** *writer*)
  - **OR** combines terms so that at least one of the listed terms appears in the search result (*writer* **OR** *writing*)
- - **NOT** excludes the subsequent terms from the search result (writer **NOT** *tutoring*)
+ - **NOT** excludes the subsequent terms from the search result (*writer* **NOT** *tutoring*)
 
 More powerful filtering techinques include _phrase_ and _query matching_ expressions.
  - **Phrase search** uses quotes around terms so that the exact phrase appears in the search result (**"**_technical writer_**"**) which is great for pinpointing the role you are looking for!
