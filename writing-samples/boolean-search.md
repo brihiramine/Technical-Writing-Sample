@@ -1,4 +1,4 @@
-# writing-sample
+# How to Use Boolean Search to Find Your Next Job
 **Author:** Bri Hiramine Latimer
 
 #### What are Boolean Search Commands
